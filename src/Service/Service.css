@@ -1,0 +1,15 @@
+
+.serv-img{
+  margin: 10px 20px 20px 50px;
+  display: inline;
+  float: left;
+}
+.serv-img1 {
+  width: 250px;
+  height: 150px;
+  border-radius: 8px;
+}
+
+#servpara {
+  margin-left: 50px;
+}

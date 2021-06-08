@@ -1,0 +1,19 @@
+
+.footer {
+    margin-left: 40%;
+    align-items: center;
+    justify-content: center;
+}
+h3 {
+    margin-left: 15%;
+}
+
+a i{
+    height: 30px;
+    width: 30px;
+    padding: 20px;
+    
+    padding-bottom: 50px;
+    color: rgb(247, 108, 16);
+    font-size: 1.2eh;
+}

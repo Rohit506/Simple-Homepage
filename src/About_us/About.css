@@ -1,0 +1,14 @@
+.about1 {
+    float: left;
+    margin-left: 50px;
+}
+#about-img1 {
+    height: 300px;
+    width: 500px;
+    border-radius: 5px;
+    float: right;
+    margin: 0px 50px 0px 20px;
+}
+.about-div {
+    background-color: rgb(172, 181, 182);
+}
