@@ -8,7 +8,7 @@ import './App.css';
 import { BrowserRouter, Link, Route, Switch } from 'react-router-dom';
 import Home from './Home/Home';
 
-const discount_banner="https://i0.wp.com/www.saribox.com/assets/image/banner11.jpg";
+const discount_banner="https://previews.123rf.com/images/rastudio/rastudio1908/rastudio190800206/128546028-profitable-partnership-business-partners-cowork-affiliate-marketing-cost-effective-marketing-solutio.jpg";
 
 const Header = () => {
   return(

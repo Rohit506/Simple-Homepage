@@ -8,7 +8,7 @@ const Footer = () => {
                 <h3>Follow us</h3>
                 <a href="#" target="_blank"><i class="fab fa-3x fa-facebook"></i></a>
                 <a href="#" target="_blank"><i class="fab fa-3x fa-twitter"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/rohit-kumar-3910821b5/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
                 <a href="#" target="_blank"><i class="fab fa-3x fa-google-plus"></i></a>
             </div>
         </>
